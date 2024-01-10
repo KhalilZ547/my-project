@@ -1,0 +1,155 @@
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+#h22{  
+    background-color:#bc1d1d;
+    text-align: center;
+    text
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+}
+
+header {
+    background-color: #686868;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+#tit{
+    color: black;
+    text-shadow: #000000;
+    transition:cubic-bezier(0.075, 0.82, 0.165, 1)0s;
+    background-color: #c6042e ;
+}
+#aff3{
+    float: inherit;
+}
+#aff2{
+    border-radius: 1%;
+    float:inherit;
+    width: 20%;
+    height: 253px;
+}
+#aff {
+    border-radius:1% ;
+    width: 30%;
+    height: 40%;
+    size image-rendering: left: 
+    float: left;
+}
+#home2{
+width:40%;
+height: 40%;
+   
+}
+#sec{
+    background-color: #bc1d1d;
+}
+#about{
+    width: 80px;
+    height: 80px;
+}
+
+.header-decoration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.burger-icon {
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+nav {
+    margin-top: inherit
+}
+.gmail{
+    
+        box-shadow: 7px 11px 5px -6px #1c1b18;
+        background-color:#403f3f;
+        border-radius:42px;
+        border:1px solid #333029;
+        display:inline-block;
+        cursor:pointer;
+        color:#000000;
+        font-family:Georgia;
+        font-size:15px;
+        font-weight:lighter;
+        padding:9px 19px;
+        text-decoration::marker;
+        text-shadow:3px 3px 2px #6e8076;
+    }
+    .gmail:hover {
+        background-color:#fffaee;
+    }
+    .gmail:active {
+        position:relative;
+        top:1px;
+    }
+
+
+nav ul {
+    list-style: none;
+    background-color: #444;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+}
+
+
+main {
+    margin-top: 20px;
+}
+
+section {
+    background-color: #da2020;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+#img1 {
+    image-rendering: optimizeQuality;
+    float: left;
+    width: 10px;
+    height: 10px;
+    margin-bottom: 10%;
+}
+
+
+footer {
+    background-color: #c92e1a;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+#contact{
+    height: 80px;
+    width: 80px;
+}
